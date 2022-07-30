@@ -1,7 +1,294 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="SBT">
-    <display-name lang="pt">SBT</display-name>
-    <url>http://www.vivo.com.br</url>
+  <channel id="GLOBO BAHIA">
+    <display-name lang="pt">GLOBO BAHIA</display-name>
+    <icon src="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" />
+    <url>http://www.redeglobo.globo.com</url>
   </channel>
+  <programme start="20220730003000 +0000" stop="20220730013500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+  </programme>
+  <programme start="20220730013500 +0000" stop="20220730022500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+  </programme>
+  <programme start="20220730022500 +0000" stop="20220730031000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Sessão Globoplay - The Equalizer - A Protetora</title>
+    <desc lang="pt">Bastante determinada, Robyn McCall é uma mãe solteira que utiliza suas habilidades incríveis como ex-agente da CIA para ajudar as pessoas que mais precisam.(n)</desc>
+  </programme>
+  <programme start="20220730031000 +0000" stop="20220730040000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20220730040000 +0000" stop="20220730044000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20220730044000 +0000" stop="20220730052500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
+  <programme start="20220730052500 +0000" stop="20220730060500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Comédia Na Madruga I</title>
+    <desc lang="pt">Exibição da primeira temporada do Vai Que Cola.(n)</desc>
+  </programme>
+  <programme start="20220730060500 +0000" stop="20220730090000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Corujão I - Só Se Vive Uma Vez</title>
+    <title lang="en">Solo Se Vive Una Vez</title>
+    <desc lang="pt">Leo, um vigarista profissional, precisa assumir outra personalidade para se afastar dos perigosos Duges, López e Harken. Manter-se seguro não será fácil, e ele precisará recorrer a opções malucas para ficar escondido.(n)</desc>
+  </programme>
+  <programme start="20220730090000 +0000" stop="20220730095000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Globo Repórter</title>
+    <desc lang="pt">Com apresentação de Glória Maria e Sandra Annenberg, o ‘Globo Repórter’ é o jornalístico documental que vai ao ar nas noites de sexta-feira.(n)</desc>
+  </programme>
+  <programme start="20220730095000 +0000" stop="20220730105000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Galpão Crioulo</title>
+    <desc lang="pt">Além de receber grandes nomes da música regionalista gaúcha, Neto Fagundes e Shana Müller apresentam conteúdos relacionados ao turismo, ao agronegócio e à gastronomia do estado.(n)</desc>
+  </programme>
+  <programme start="20220730105000 +0000" stop="20220730144500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">É de Casa</title>
+    <desc lang="pt">Maria Beltrão, Rita Batista, Thiago Oliveira e Talitha Morete comandam programa de variedades das manhãs de sábado, ao vivo.(n)</desc>
+  </programme>
+  <programme start="20220730144500 +0000" stop="20220730155000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.(n)</desc>
+  </programme>
+  <programme start="20220730155000 +0000" stop="20220730162500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre a dupla Gre-Nal, além das principais informações do esporte Rio Grande do Sul.(n)</desc>
+  </programme>
+  <programme start="20220730162500 +0000" stop="20220730171000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  </programme>
+  <programme start="20220730171000 +0000" stop="20220730175000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">A Força do Agro</title>
+    <desc lang="pt">Programa gravado no Parque de Exposições Assis Brasil, em Esteio, traz histórias que mostram o verdadeiro legado da Expointer.(n)</desc>
+  </programme>
+  <programme start="20220730175000 +0000" stop="20220730185000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">O Melhor Da Escolinha</title>
+    <desc lang="pt">Em 'O Melhor da Escolinha', o público verá uma seleção de episódios da quarta, quinta e sexta temporadas, exibidas originalmente em 2018, 2019 e 2020.(n)</desc>
+  </programme>
+  <programme start="20220730185000 +0000" stop="20220730213500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Caldeirão Com Mion</title>
+    <desc lang="pt">Apresentado por Marcos Mion, a nova versão do 'Caldeirão' traz alguns quadros já conhecidos do público e atrações inéditas.(n)</desc>
+  </programme>
+  <programme start="20220730213500 +0000" stop="20220730222000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Joaquim ameaça Davi com uma arma, e Heloísa intervém. Emília pede que Cipriano diga a Jojô que ela o ama. Arminda coroa Margô como a nova rainha da rádio. Davi agradece Heloísa por tê-lo salvado de Joaquim. Lorenzo e Letícia percebem o clima entre Cipriano e Giovanna. Enrico chantageia Joaquim para conseguir um advogado. Violeta discute com Eugênio por conta de Joaquim. Abel ameaça brigar com Úrsula se Joaquim não lhe der dinheiro. Lisiê conta a Tenório sobre o estado de Olívia. Elias revela que Olívia não poderá engravidar. Úrsula atira contra Abel.(n)</desc>
+  </programme>
+  <programme start="20220730222000 +0000" stop="20220730224500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">As notícias do dia no RS.(n)</desc>
+  </programme>
+  <programme start="20220730224500 +0000" stop="20220730233000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Cara e Coragem</title>
+    <desc lang="pt">Anita relembra de um encontro que teve com Regina no dia em que Clarice morreu. Márcia estranha as atitudes de Ísis com Renan. Rico tenta ajudar Lou na conversa com Olívia e percebe que a moça esconde algo sobre Pat. Lou vai à casa de Renan, mas ele a dispensa. Isis está escondida no quarto do coreógrafo e os dois se beijam. Dentro de uma van, Ítalo e Rico monitoram Pat e Moa que vão no local indicado na carta anônima. Yeva, uma mulher misteriosa, chega para encontrar Pat e Moa e os questiona sobre a fórmula. Moa e Pat aproveitam uma distração da mulher no restaurante e a cercam com a ajuda das cadeiras do local. Yeva consegue fugir, mas Pat, Moa, Ítalo e Rico alcançam a mulher. O grupo se choca quando um tiro atinge Yeva antes que a mulher diga o nome de quem mandou procurá-los.(n)</desc>
+  </programme>
+  <programme start="20220730233000 +0000" stop="20220731002500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20220731002500 +0000" stop="20220731013000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">Maria Bruaca erra o tiro disparado contra Tenório. Guta se despede da mãe, que entra na chalana sem destino. Tenório comunica a Marcelo que buscará Zuleica e seus irmãos para morar na fazenda. Eugênio ajuda Maria Bruaca. José Leôncio evita um confronto entre Jove e José Lucas. Jove se afasta da tapera, diante da decisão de Juma de não querer ser mais sua mulher. Irma se preocupa com Jove. José Leôncio revela a Filó que estará ao lado dos filhos, sem tomar partido de nenhum deles. Jove deixa claro para José Leôncio que algo pode acontecer se José Lucas cruzar o seu caminho.(n)</desc>
+  </programme>
+  <programme start="20220731013000 +0000" stop="20220731032000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Altas Horas</title>
+    <desc lang="pt">Serginho Groisman comanda a atração, que abre espaço para boa música, encontros inesperados e entrevistas com personalidades.(n)</desc>
+  </programme>
+  <programme start="20220731032000 +0000" stop="20220731051000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Supercine - Footloose - Ritmo Contagiante</title>
+    <title lang="en">Footloose</title>
+    <desc lang="pt">Ren Maccormack se mudou há pouco tempo para uma cidade do interior. Apaixonado pela dança, ele enfrenta problemas com o reverendo Shawn Moore, que considera a arte um grave pecado. Tudo se complica quando Ren se apaixona pela filha do severo pastor. Refilmagem de um grande sucesso do cinema.(n)</desc>
+  </programme>
+  <programme start="20220731051000 +0000" stop="20220731055000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
+  <programme start="20220731055000 +0000" stop="20220802070000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Corujão I - Bravura Indômita</title>
+    <title lang="en">True Grit</title>
+    <desc lang="pt">Após a morte do seu pai, assassinado a sangue frio por Tom Shaney, a jovem Mattie Ross, de apenas 14 anos, parte em busca de vingança. Ela contrata os serviços do ex-xerife Reuben Cogburn e viaja por territórios indígenas para encontrar o assassino antes de Leboeuf, um patrulheiro texano que também quer capturar o bandido. Refilmagem do clássico western homônimo.(n)</desc>
+  </programme>
+  <programme start="20220802070000 +0000" stop="20220802090000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20220802090000 +0000" stop="20220802113000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">O Bom Dia Rio Grande traz as principais notícias da madrugada, a previsão do tempo, as condições do trânsito e muita informação.(n)</desc>
+  </programme>
+  <programme start="20220802113000 +0000" stop="20220802123000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20220802123000 +0000" stop="20220802133500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20220802133500 +0000" stop="20220802144500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20220802144500 +0000" stop="20220802155000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.(n)</desc>
+  </programme>
+  <programme start="20220802155000 +0000" stop="20220802162500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre a dupla Gre-Nal, além das principais informações do esporte Rio Grande do Sul.(n)</desc>
+  </programme>
+  <programme start="20220802162500 +0000" stop="20220802174500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  </programme>
+  <programme start="20220802174500 +0000" stop="20220802183000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">O Cravo E A Rosa</title>
+    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+  </programme>
+  <programme start="20220802183000 +0000" stop="20220802201000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Sessão da Tarde - A Última Música</title>
+    <title lang="en">The Last Song</title>
+    <desc lang="pt">Ronnie Miller tem 17 anos, é filha de pais divorciados e seu pai mora longe de Nova York, em uma cidade praiana. Após três anos de separação, ela ainda sente raiva por tudo o que aconteceu até o dia em que sua mãe decide enviá-la para passar o verão com ele. Uma vez lá, depois de conhecer novas pessoas e paixões, ela encontra alguém que, além de bom músico e professor, é, acima de tudo, um verdadeiro pai.(n)</desc>
+  </programme>
+  <programme start="20220802201000 +0000" stop="20220802212500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Vale a Pena Ver de Novo - A Favorita</title>
+    <desc lang="pt">Ambientada em São Paulo, 'A Favorita' apresenta como trama central a rivalidade entre Flora e Donatela, antigas parceiras da fictícia dupla sertaneja Faísca e Espoleta.(n)</desc>
+  </programme>
+  <programme start="20220802212500 +0000" stop="20220802221000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+  </programme>
+  <programme start="20220802221000 +0000" stop="20220802224000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">As notícias do dia no RS.(n)</desc>
+  </programme>
+  <programme start="20220802224000 +0000" stop="20220802233000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Cara e Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
+  <programme start="20220802233000 +0000" stop="20220803003000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20220803003000 +0000" stop="20220803015500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+  </programme>
+  <programme start="20220803015500 +0000" stop="20220803025000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Filhas De Eva</title>
+    <desc lang="pt">Três mulheres fortes e independentes. Recordações de uma vida inteira. Consequências e impactos de decisões importantes são o pano de fundo deste drama leve, com pinceladas de humor cotidiano e que levanta reflexões comuns a todos.(n)</desc>
+  </programme>
+  <programme start="20220803025000 +0000" stop="20220803033000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Profissão Repórter</title>
+    <desc lang="pt">Os bastidores da notícia e os desafios da reportagem. Diferentes olhares sob o comando de Caco Barcellos.(n)</desc>
+  </programme>
+  <programme start="20220803033000 +0000" stop="20220803042000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20220803042000 +0000" stop="20220803050000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20220803050000 +0000" stop="20220803054500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
+  <programme start="20220803054500 +0000" stop="20220803062500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Comédia Na Madruga I</title>
+    <desc lang="pt">Exibição da primeira temporada do Vai Que Cola.(n)</desc>
+  </programme>
+  <programme start="20220803062500 +0000" stop="20220803070000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Comédia Na Madruga II</title>
+    <desc lang="pt">Exibição da primeira temporada do Vai Que Cola.(n)</desc>
+  </programme>
+  <programme start="20220803070000 +0000" stop="20220803090000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Hora Um</title>
+    <desc lang="pt">Os assuntos mais importantes do Brasil e do mundo, com apresentação de Roberto Kovalick.(n)</desc>
+  </programme>
+  <programme start="20220803090000 +0000" stop="20220803113000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Bom Dia Rio Grande</title>
+    <desc lang="pt">O Bom Dia Rio Grande traz as principais notícias da madrugada, a previsão do tempo, as condições do trânsito e muita informação.(n)</desc>
+  </programme>
+  <programme start="20220803113000 +0000" stop="20220803123000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Bom Dia Brasil</title>
+    <desc lang="pt">O telejornal, com apresentação de Ana Paula Araújo, exibe as primeiras notícias do dia no Brasil e no mundo e repercute os fatos mais relevantes.(n)</desc>
+  </programme>
+  <programme start="20220803123000 +0000" stop="20220803133500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Encontro Com Patrícia Poeta</title>
+    <desc lang="pt">Patrícia Poeta, ao lado de Manoel Soares, comanda o programa que mistura comportamento, prestação de serviço, informação, música, entretenimento e muita diversão.(n)</desc>
+  </programme>
+  <programme start="20220803133500 +0000" stop="20220803144500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Mais Você</title>
+    <desc lang="pt">Ana Maria Braga apresenta assuntos de interesse da família, como economia popular e saúde, além das delícias da culinária.(n)</desc>
+  </programme>
+  <programme start="20220803144500 +0000" stop="20220803160000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal do Almoço</title>
+    <desc lang="pt">O Jornal do Almoço reúne assuntos diversos como cultura, variedades, noticiário factual, musicais, entrevistas ao vivo e comentários.(n)</desc>
+  </programme>
+  <programme start="20220803160000 +0000" stop="20220803162500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Globo Esporte RS</title>
+    <desc lang="pt">O Globo Esporte RS mostra tudo sobre a dupla Gre-Nal, além das principais informações do esporte Rio Grande do Sul.(n)</desc>
+  </programme>
+  <programme start="20220803162500 +0000" stop="20220803174500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Hoje</title>
+    <desc lang="pt">Os destaques do dia no Brasil e no mundo, com apresentação de César Tralli.(n)</desc>
+  </programme>
+  <programme start="20220803174500 +0000" stop="20220803183000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">O Cravo E A Rosa</title>
+    <desc lang="pt">Comédia romântica inspirada no clássico 'A Megera Domada', de William Shakespeare, a novela é ambientada na São Paulo dos anos 1920 e narra o tumultuado romance entre o rude caipira Petruchio e a geniosa Catarina, moça moderna com ideias feministas.(n)</desc>
+  </programme>
+  <programme start="20220803183000 +0000" stop="20220803200500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Sessão da Tarde - Paixão de Aluguel</title>
+    <title lang="en">The Perfect Man</title>
+    <desc lang="pt">Em Paixão de Aluguel, Holly está cansada de se mudar toda vez que a sua mãe, Jean Hamilton, termina com um novo namorado. Para aumentar a autoestima da mãe, a jovem decide inventar um admirador secreto, mas logo o seu plano começa a sair do controle.(n)</desc>
+  </programme>
+  <programme start="20220803200500 +0000" stop="20220803212500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Vale a Pena Ver de Novo - A Favorita</title>
+    <desc lang="pt">Ambientada em São Paulo, 'A Favorita' apresenta como trama central a rivalidade entre Flora e Donatela, antigas parceiras da fictícia dupla sertaneja Faísca e Espoleta.(n)</desc>
+  </programme>
+  <programme start="20220803212500 +0000" stop="20220803221000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Além da Ilusão</title>
+    <desc lang="pt">Por trás de muitas ilusões está a força de um sentimento sublime capaz de reparar injustiças e aproximar um casal improvável: o mágico Davi e a aspirante a modista Isadora. Ele faz do ilusionismo sua arte e seu meio de sobreviver. Ela tem os pés no chão e mira horizontes mais promissores, principalmente, no mundo do trabalho. De forma surpreendente, seus destinos se cruzarão e, unidos por um trauma do passado, terão um no outro uma chance de ressignificar suas trajetórias.(n)</desc>
+  </programme>
+  <programme start="20220803221000 +0000" stop="20220803224000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">RBS Notícias</title>
+    <desc lang="pt">As notícias do dia no RS.(n)</desc>
+  </programme>
+  <programme start="20220803224000 +0000" stop="20220803233000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Cara e Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
+  <programme start="20220803233000 +0000" stop="20220804003000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal Nacional</title>
+    <desc lang="pt">As principais notícias do Brasil e do mundo, com apresentação de William Bonner e Renata Vasconcellos.(n)</desc>
+  </programme>
+  <programme start="20220804003000 +0000" stop="20220804013500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Pantanal</title>
+    <desc lang="pt">'Pantanal' é uma saga familiar que tem o amor como fio condutor e a natureza como protagonista. A obra escrita há mais de 30 anos por Benedito Ruy Barbosa chega à TV Globo em 2022, em uma nova versão escrita pelo autor Bruno Luperi.(n)</desc>
+  </programme>
+  <programme start="20220804013500 +0000" stop="20220804032500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Cinema Especial - Rensga Hits!</title>
+    <title lang="en">Rensga Hits!</title>
+    <desc lang="pt">Raíssa, é uma jovem e talentosa compositora recém chegada à Goiânia. Em sua trilha até o sucesso, ela deve se deparar com intrigas, desafios, novas amizades e até um novo amor.(n)</desc>
+  </programme>
+  <programme start="20220804032500 +0000" stop="20220804041000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Que História É Essa Porchat?</title>
+    <desc lang="pt">Fábio Porchat propõe a famosos e anônimos compartilharem sua experiências inesquecíveis, engraçadas e até mesmo assustadoras. Exibido originalmente pelo canal GNT.(n)</desc>
+  </programme>
+  <programme start="20220804041000 +0000" stop="20220804050000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Jornal da Globo</title>
+    <desc lang="pt">As notícias do dia com a análise de comentaristas, espaço para a crônica e opinião.(n)</desc>
+  </programme>
+  <programme start="20220804050000 +0000" stop="20220804054000 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Conversa com Bial</title>
+    <desc lang="pt">Apresentado por Pedro Bial, o Conversa com Bial recebe quem faz entretenimento de qualidade e quem pode contribuir em debates relevantes para a sociedade brasileira.(n)</desc>
+  </programme>
+  <programme start="20220804054000 +0000" stop="20220804062500 +0000" channel="GLOBO BAHIA">
+    <title lang="pt">Reapresentação Novela II - Cara E Coragem</title>
+    <desc lang="pt">Cara e Coragem’ é uma comédia romântica de ação embalada por aventura e mistérios. Quando o resgate de uma fórmula secreta e uma morte inesperada entrelaçam os destinos dos dublês Pat e Moa, da empresária Clarice Gusmão e do instrutor de parkour Ítalo, a coragem de todos é posta à prova.(n)</desc>
+  </programme>
 </tv>
